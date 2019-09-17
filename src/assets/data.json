@@ -1,0 +1,48 @@
+[
+  {
+    "id": 1,
+    "text": "Folder 1",
+    "children": [
+      {
+        "id": 2,
+        "text": "Sub Folder 1"
+      },
+      {
+        "id": 3,
+        "text": "Sub Folder 2",
+        "children": [
+          {
+            "id": 5,
+            "text": "File 1"
+          },
+          {
+            "id": 6,
+            "text": "File 2"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Folder 2",
+    "children": [
+      {
+        "id": 7,
+        "text": "New Folder",
+        "children": [
+          {
+            "id": 8,
+            "text": "Test Folder",
+            "children": [
+              {
+                "id": 9,
+                "text": "Old File"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

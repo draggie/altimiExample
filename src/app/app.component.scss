@@ -1,0 +1,13 @@
+.grid {
+  display: flex;
+  justify-content: space-around;
+  pre {
+    border: 1px solid lightblue;
+    border-radius: 5px;
+    padding: 10px;
+
+  }
+  pre:hover {
+    background-color: rgb(247, 250, 251);
+  }
+}
