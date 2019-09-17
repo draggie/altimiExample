@@ -11,7 +11,7 @@ This project contains example data source in `assets/data.json`.
 This file has simple tree based data structure.
 
 Example project includes already service which accesses data from the file and displays it in simple way in HTML template.
-Task for developer is to implement simple tree view module & component which will:
+Task for developer is to **implement simple tree view module & component** which will:
 * Take data structure from existing service (or from input)
 * Define proper type definitions for data, which service method will be able to return - currently it uses unknown type
 * Display tree data in proper tree structure - you can use any CSS/SCSS framwework
